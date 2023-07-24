@@ -1,0 +1,24 @@
+<script setup>
+
+
+</script>
+
+<template>
+ <RouterView/>
+</template>
+
+<style >
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+.container{
+  max-width: 1360px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+</style>
